@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SireSirolBot
-- 👀 I’m interested in Hacks for Amoung us
+- 👀 I’m interested in bots
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Jarvis
 - 📫 How to reach me on pro209123@gmail.com
